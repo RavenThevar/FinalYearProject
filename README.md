@@ -26,7 +26,7 @@ which are k-Nearest Neighbour and Decision Tree. The proposed Stacking method
 had successfully improved the accuracy of the k-Nearest Neighbour and Decision 
 Tree. The Decision Tree ensemble model (stacking) at an accuracy of 0.738 and the 
 k-Neareast Neighbours ensemble model (stacking) at an accuracy of 0.733 has 
-improved the accuracy of the two lowest individually developed models which are kNearest Neighbours at 0.71175 & Decision Tree at 0.71025 before using 10-fold, 
+improved the accuracy of the two lowest individually developed models which are k-Nearest Neighbours at 0.71175 & Decision Tree at 0.71025 before using 10-fold, 
 Repeated Cross-Validation technique and also k-Nearest Neighbours at 0.684 &
 Decision Tree at 0.731 after using 10-fold, Repeated Cross-Validation technique.
 Stacking is proven to be suitable for ensemble applications involving other base 
